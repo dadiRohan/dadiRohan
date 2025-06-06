@@ -1,6 +1,7 @@
 👋 Hi there! I'm Rohan Sable
 
 👨‍💻 About Me
+
 I'm a passionate software developer with over 9 years of experience across diverse industries including FinTech, Gaming, CRM, FMCG, and PropTech. Based in Mumbai, Maharashtra, I specialize in building scalable and efficient applications that solve real-world problems.
 
 🔧 Skills & Technologies:
