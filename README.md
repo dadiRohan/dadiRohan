@@ -1,30 +1,28 @@
-👋 Hi there! I'm Rohan Sable
+# 👋 Hi, I'm Rohan Sable (dadirohan)
 
-👨‍💻 About Me
+## 💼 Software Developer | 📍 Mumbai, Maharashtra
 
-I'm a passionate software developer with over 9 years of experience across diverse industries including FinTech, Gaming, CRM, FMCG, and PropTech. Based in Mumbai, Maharashtra, I specialize in building scalable and efficient applications that solve real-world problems.
+With over 9 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech industries, I specialize in developing scalable applications and contributing to open-source projects.
 
-🔧 Skills & Technologies:
+## 🔗 Connect with Me
+- [YouTube](https://www.youtube.com/@rohanexplorer7139)
+- [Instagram](https://www.instagram.com/sablerohan61)
+- [Stack Overflow](https://stackoverflow.com/users/10110047/rohan-sable)
+- [Facebook](https://www.facebook.com/sablerohan61)
 
-  1. Languages: JavaScript (React, Node.js), PHP (Laravel), Python
-  
-  2. Databases: MySQL, PostgreSQL, MongoDB
-  
-  3. Tools: Docker, Git, AWS
-  
-  4. Frameworks: Laravel, Express.js, React.js
+## 📊 GitHub Stats
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadirohan&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadirohan&layout=compact&theme=radical)
 
-🌟 Achievements :
+## 📈 Recent Activity
+- ![Recent Activity](https://www.gitclear.com/github_profile_dynamic_readme_free?username=dadirohan)
 
-🎓**Arctic Code Vault Contributor:** Contributed to GitHub's Arctic Code Vault, preserving open-source software for future generations.
+## 📌 Featured Repositories
+- [ReactAdvance](https://github.com/dadiRohan/ReactAdvance)
+- [Laravel-chat-TalkJS](https://github.com/dadiRohan/Laravel-chat-TalkJS)
 
-🎓**Developer Program Member:** Actively participate in GitHub's Developer Program, staying updated with the latest tools and best practices.
-
-📬 Let's Connect:
-
-1.  [Youtube](https://www.youtube.com/@rohanexplorer7139)
-2.  [Instagram](https://www.instagram.com/sablerohan61)
-3.  [StackOverflow](https://stackoverflow.com/users/10110047/rohan-sable)
-4.  [Facebook](https://www.facebook.com/sablerohan61)
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss tech!
+## 📱 Social Media
+![YouTube](https://img.shields.io/badge/YouTube-Rohan%20Explorer-red)
+![Instagram](https://img.shields.io/badge/Instagram-sablerohan61-blue)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Rohan%20Sable-yellow)
+![Facebook](https://img.shields.io/badge/Facebook-sablerohan61-green)
