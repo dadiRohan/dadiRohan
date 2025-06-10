@@ -9,8 +9,8 @@ With over 9 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech indu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadirohan&layout=compact&theme=radical)
 
 ## 📈 Recent Activity
-- Currently Working on Social platform Development in private repository
-- Which having Frontend ReactJS & Backend with expressJS with MongoDB.
+- Currently Working on Social platform Development in GIT private repository.
+- Which having Frontend ReactJS & Backend expressJS with MongoDB.
 - URL for access Project is : [![PortFolio](https://img.shields.io/badge/PortFolio-rohansable-purple)](https://rohansable.hstn.me)
 
 ## 📌 Featured Repositories
