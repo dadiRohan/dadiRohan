@@ -9,7 +9,7 @@ With over 9 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech indu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadirohan&layout=compact&theme=radical)
 
 ## 📈 Recent Activity
-- Working on Social platform in private repository
+- Currently Working on Social platform Development in private repository, which having Frontend ReactJS & Backend with expressJS with MongoDB.
 
 ## 📌 Featured Repositories
 - [ReactAdvance](https://github.com/dadiRohan/ReactAdvance)
