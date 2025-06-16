@@ -14,7 +14,7 @@ With over 9 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech indu
 - URL for access Project is : [![PortFolio](https://img.shields.io/badge/PortFolio-rohansable-purple)](https://rohansable.hstn.me)
 
 ## 📌 Featured Repositories
-- [ReactAdvance](https://github.com/dadiRohan/ReactAdvance)
+- [Socio App](https://github.com/dadiRohan/SocioApp)
 - [Laravel-chat-TalkJS](https://github.com/dadiRohan/Laravel-chat-TalkJS)
 
 ## 📱 Connect with Me on Social Media
