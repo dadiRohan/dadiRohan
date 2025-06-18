@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Rohan Sable (dadirohan)
 
+![Profile Views](https://komarev.com/ghpvc/?username=dadirohan&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## 💼 Software Developer | 📍 Mumbai, Maharashtra
 
 With over 9 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech industries, I specialize in developing scalable applications and contributing to open-source projects.
