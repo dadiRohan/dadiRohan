@@ -7,7 +7,6 @@
 With over 9 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech industries, I specialize in developing scalable applications and contributing to open-source projects.
 
 ## 📊 GitHub Stats
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadirohan&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadirohan&layout=compact&theme=radical)
 
 ## 📈 Recent Activity
