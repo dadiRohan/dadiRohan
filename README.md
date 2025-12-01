@@ -16,6 +16,7 @@ With over 9 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech indu
 ## 📌 Featured Repositories
 - [Socio App](https://github.com/dadiRohan/SocioApp)
 - [Laravel-chat-TalkJS](https://github.com/dadiRohan/Laravel-chat-TalkJS)
+- [SimpleAvatarChat](https://github.com/dadiRohan/SimpleAvatarChat)
 
 ## 📱 Connect with Me on Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohansable13-blue)](https://www.linkedin.com/in/rohansable13)
