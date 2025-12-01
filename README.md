@@ -6,9 +6,6 @@
 
 With over 9 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech industries, I specialize in developing scalable applications and contributing to open-source projects.
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadirohan&layout=compact&theme=radical)
-
 ## 📈 Recent Activity
 - Currently Working on Social platform Development in GIT private repository. Which having Frontend ReactJS & Backend NodeJS with MongoDB. & Also making same replica in Android APK. URL for access Socio Application is : [![Socio](https://img.shields.io/badge/App-Socio-blue)](https://react-socio.vercel.app)
 - For access my Portfolio is : [![PortFolio](https://img.shields.io/badge/PortFolio-RS-purple)](https://www.rohansable.work/)
