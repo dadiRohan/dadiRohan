@@ -4,7 +4,7 @@
 
 ## 💼 Software Developer | 📍 Mumbai, Maharashtra
 
-With over 9 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech industries, I specialize in developing scalable applications and contributing to open-source projects.
+With over 10 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech industries, I specialize in developing scalable applications and contributing to open-source projects.
 
 ## 📈 Recent Activity
 - Currently Working on Social platform Development in GIT private repository. Which having Frontend ReactJS & Backend NodeJS with MongoDB. & Also making same replica in Android APK. URL for access Socio Application is : [![Socio](https://img.shields.io/badge/App-Socio-blue)](https://react-socio.vercel.app)
