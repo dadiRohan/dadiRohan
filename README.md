@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dadirohan&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 💼 Software Developer | 📍 Mumbai, Maharashtra
+## 💼 Full Stack Developer | Lead Developre | 📍 Mumbai, Maharashtra
 
 With over 10 years of experience in FinTech, Gaming, CRM, FMCG, and PropTech industries, I specialize in developing scalable applications and contributing to open-source projects.
 
