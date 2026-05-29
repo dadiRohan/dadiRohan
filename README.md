@@ -7,7 +7,7 @@
 With over **10 years** of experience in **FinTech, Gaming, CRM, FMCG, and PropTech industries**, I specialize in developing scalable applications and contributing to open-source projects.
 
 ## 📈 Recent Activity
-- Currently Working on **Social platform** Development in GIT private repository. Which having Frontend ReactJS & Backend NodeJS with MongoDB. & Also making same replica in Android APK. URL for access Socio Application is : [![Socio](https://img.shields.io/badge/App-Socio-blue)](https://react-socio.vercel.app)
+- Currently Working on **Social platform** Development in GIT private repository. Which having Frontend ReactJS & Backend NodeJS with MongoDB. & Also making same replica in Android APK. URL for access Socio Application is : [![Socio](https://img.shields.io/badge/App-Socio-blue)](https://react-socio.vercel.app/)
 - Also doing work for **Avatar chatbot** Talking for user Queries in 2d and 3d avatar modules [![2d Avatar](https://img.shields.io/badge/App-2dAvatar-red)](https://2d-one.vercel.app/)
 - For access my **Portfolio** is : [![PortFolio](https://img.shields.io/badge/PortFolio-RS-purple)](https://rohan-portfolio-nine.vercel.app/)
 
