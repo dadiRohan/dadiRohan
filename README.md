@@ -24,3 +24,5 @@ With over **10 years** of experience in **FinTech, Gaming, CRM, FMCG, and PropTe
 [![Instagram](https://img.shields.io/badge/Instagram-sablerohan61-blue)](https://www.instagram.com/sablerohan61)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Rohan%20Sable-yellow)](https://stackoverflow.com/users/10110047/rohan-sable)
 [![Facebook](https://img.shields.io/badge/Facebook-sablerohan61-green)](https://www.facebook.com/sablerohan61)
+[![Leetcode](https://img.shields.io/badge/Leetcode-sablerohan61-white)](https://leetcode.com/u/sablerohan61/)
+
